@@ -1,2 +1,2 @@
-# JavaScriptBegainerToAdvance
-#With project
+# JavaScriptBeginnerToAdvance
+# With project
