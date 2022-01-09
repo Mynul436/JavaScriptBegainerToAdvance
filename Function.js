@@ -4,3 +4,15 @@ function addNumber(a, b) {
   console.log("Result = " + c);
 }
 addNumber(4, 7);
+
+(function aaD(){
+  for(let i=0;i<5;i++)
+  {
+    console.log(i+7);
+  }
+})();
+//aaD();
+for(let i=0;i<5;i++)
+{
+  console.log(i)
+}
